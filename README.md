@@ -1,4 +1,4 @@
-#Wine Quality Prediction
+##Wine Quality Prediction
 #Machine Learning model to predict the quality of wine using linear regression.
 Predicting the quality of wine using linear regression is a regression problem where you aim to estimate a continuous numeric value (in this case, wine quality) based on one or more input features. Wine quality is often assessed on a scale, and linear regression can be used to predict a wine's quality score.
 
